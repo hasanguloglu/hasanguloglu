@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm frequently engaged within Python 
+- 🔭 I'm frequently engaged within ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - 👯 I’m looking to collaborate on new projects
 
